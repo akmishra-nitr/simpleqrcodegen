@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## A simple QR Code Generator
 
-You can use the [editor on GitHub](https://github.com/akmishra-nitr/simpleqrcodegen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project showcases a simple QR code generator that can be used with an Android phone to read a custom QR code and generate the information stored in it. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is meant for information purpose only. 
 
-### Markdown
+### QR Codes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+QR codes, or Quick Response Codes, were first introduced in Japan in response to the need to encode a larger amount of information than what could be encoded using barcodes. A simple barcode can contain upto about 20 alphanumeric characters and the users wanted to code Kanji and Kana characters as well. For this, they approached DENSO WAVE INCORPORATED who then started development of a two-dimensional code. 
 
-```markdown
-Syntax highlighted code block
+For more information on QR codes and their history, please check out the [QRcode Website](https://www.qrcode.com/en/history/).
 
-# Header 1
-## Header 2
-### Header 3
+### Sample QR Codes
 
-- Bulleted
-- List
+A list of the names of animals are encoded as sample test subjects in the QR code. Below are the animal names and their respective QR codes.
 
-1. Numbered
-2. List
+"Work in Progress" List of animal names and their QR codes.
 
-**Bold** and _Italic_ and `Code` text
+### Trying out this project on an Android phone
 
-[Link](url) and ![Image](src)
-```
+1. Download the "Simqrcode" app from the Andorid Playstore.
+2. Download the QR code for one of the animals from this page (see above section) and print it.
+3. Open the app and click "Scan Code".
+4. Position the phone so that the QR code is in view. Once done so, the app will prompt to go the Results page.
+5. See the name of the animal that was encoded in the QR code in the Results page.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akmishra-nitr/simpleqrcodegen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please contact akmishralive@live.com for any issues or comment on this project.
